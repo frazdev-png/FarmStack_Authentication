@@ -1,0 +1,77 @@
+# Backend
+taskflow-backend/__pycache__/
+taskflow-backend/.env
+taskflow-backend/venv/
+taskflow-backend/.venv/
+taskflow-backend/env/
+taskflow-backend/*.pyc
+taskflow-backend/*.pyo
+taskflow-backend/*.egg-info/
+taskflow-backend/dist/
+taskflow-backend/build/
+taskflow-backend/.pytest_cache/
+taskflow-backend/.coverage
+taskflow-backend/htmlcov/
+taskflow-backend/site-packages/
+taskflow-backend/.vscode/
+taskflow-backend/.idea/
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/dist/
+frontend/build/
+frontend/.vite/
+frontend/.eslintcache
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.DS_Store
+frontend/.vscode/
+frontend/.idea/
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.pyo
+*.pyc
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.nyc_output/
+coverage/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.#*
+*~
